@@ -2,7 +2,7 @@
 ## Hello, I'm Valeria  👋
 
 I'm a software testing specialist (manual) with more than a year experience.
-In my free time  I study web technologies on my own: API testing (Postman), HTTP, client-server architecture. Also i'm taking a Postman course: The Complete Guide - REST API Testing course. I'm fast learner, good team-player.
+In my free time  I study web technologies on my own: API testing (Postman), HTTP, client-server architecture. Also i have completed a Postman course: The Complete Guide - REST API Testing course. I'm fast learner, good team-player.
   
 # :briefcase: My skills:
 - SQL
@@ -43,7 +43,7 @@ In my free time  I study web technologies on my own: API testing (Postman), HTTP
     Bachelor's Degree, Accounting, Analysis and Auditing in Banks.
 - "OnTime" (BelHard till October 2017) (2018) - English level - Intermediate
 - Institute of IT & Business Administration (2019) - Business analysis: Information systems design with BPMN & UML.
-- Postman: The Complete Guide - REST API Testing (In progress).
+- Postman: The Complete Guide - REST API Testing (2020).
 # :fire: Fun facts about me:
  I have a Degree in Athletics (Candidate for Master of Sport in high jumping). Also I like playing squash, fitboxing :punch:,cooking and playing with my pet Bony :smiley_cat:
  
