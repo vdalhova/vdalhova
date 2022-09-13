@@ -1,8 +1,8 @@
 
 ## Hello, I'm Valeria  👋
 
-I'm a software testing specialist (manual) with 2+ years of experience. Also, I have 4,5 years of experience in the banking system.
-I'm a fast learner, good team-player.
+I'm a software testing engineer with 3+ years of experience and 4.5 years in banking. I mostly specialize in Web, API testing. I work with tools like Postman, Newman, New Relic, TestRail, SSMS, PL/SQL Developer, TeamCity and Git. I have experience in writing automated tests in Postman.
+Since I used to work in banking, it gives me a deep understanding of fintech processes.
   
 # :briefcase: My skills:
 - SQL
@@ -21,7 +21,7 @@ I'm a fast learner, good team-player.
 ### Responsibilities:
  - Performing various types of testing (functional, integration, regression, REST API testing, UI, cross-browser testing);
  - Creating and maintaining test documentation (test case, checklist, bug report);
- - Working with database (MySQL);
+ - Working with database (MSSQL);
  - Performing demo sessions and technical meeting with the client-side group;
  - Investigating issues.
 
@@ -58,6 +58,7 @@ I'm a fast learner, good team-player.
 - Institute of IT & Business Administration (2019) - Business analysis: Information systems design with BPMN & UML.
 - Postman: The Complete Guide - REST API Testing (2020).
 - KickStart English - English level - Upper-intermediate (2021).
+- SolbegSoft Academy - English level - Upper-intermediate (2022).
 # :fire: Fun facts about me:
  I have a Degree in Athletics (Candidate for Master of Sport in high jumping). Also I like playing squash, fitboxing :punch:,cooking and playing with my pet Bony :smiley_cat:
  
