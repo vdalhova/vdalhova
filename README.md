@@ -1,7 +1,7 @@
 
-## Hello, I'm Valeria  👋
+## Hello, I'm Valeryia  👋
 
-I'm a software testing engineer with 3+ years of experience and 4.5 years in banking. I mostly specialize in Web, API testing. I work with tools like Postman, Newman, New Relic, TestRail, SSMS, PL/SQL Developer, TeamCity and Git. I have experience in writing automated tests in Postman.
+I'm a software testing engineer with 5+ years of experience and 4.5 years in banking. I mostly specialize in Web, API testing. I work with tools like Postman, Newman, New Relic, TestRail, SSMS, PL/SQL Developer, TeamCity and Git. I have experience in writing automated tests in Postman.
 Since I used to work in banking, it gives me a deep understanding of fintech processes.
   
 # :briefcase: My skills:
@@ -13,9 +13,25 @@ Since I used to work in banking, it gives me a deep understanding of fintech pro
 - TeamCity
 - Jira
 - Git
+- Kafka
+- Grafana
+- Kibana
+- BrowserStack
 
 # :star: Experience:
-## **SolbegSoft** (November 2020 - present) 
+## **Evolution** (February 2023 - present) 
+**_Lead QA engineer._**
+
+### Responsibilities:
+ - Leading 7 QAs including 2 AQAs;
+ - Participating in interviews, help determine interview recommendations and evaluate candidates;
+ - Onboarding new people;
+ - Performing various types of testing (functional, integration, regression, REST API testing, UI, cross-browser testing);
+ - Accessing product usability and reliability and providing feedback and recommendations;
+ - Planning and execution work that includes interdependent tasks for the projects (testing of requirenments, specifications and designs, test case/checklist creation,bug reporting);
+ - Working with Kafka, Cassandra, Kibana, Grafana, WebSocket, Git, Postman;
+ - Investigating issues.
+## **SolbegSoft** (November 2020 - February 2023) 
 **_QA engineer._**
 
 ### Responsibilities:
